@@ -1,2 +1,2 @@
-# vizsgafeladatok_java
+# Viszgafeladatok Java
 Viszgafeladatok Java nyelven
